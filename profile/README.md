@@ -1,4 +1,8 @@
-## IOGS-Digital-Methods Organization
+## Welcome to the Institut d'Optique official GitHub Page
+
+This page gathers a set of **repositories**.
+
+They concern the learning of **digital tools for future engineers**, especialy tools for science, physics and photonics.
 
 <!--
 
