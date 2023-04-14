@@ -1,3 +1,5 @@
+<img src="https://www.institutoptique.fr/sites/default/files/2019-09/Logo-IOGS.png"  width="300"> 
+
 ## Welcome to the Institut d'Optique official GitHub Page
 
 This page gathers a set of **repositories**.
